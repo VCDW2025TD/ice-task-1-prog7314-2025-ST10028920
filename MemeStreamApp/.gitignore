@@ -1,0 +1,29 @@
+# --- Root ignores ---
+.DS_Store
+Thumbs.db
+
+# --- Node API (01-RestfulAPI) ---
+01-RestfulAPI/node_modules/
+01-RestfulAPI/.env
+01-RestfulAPI/npm-debug.log*
+01-RestfulAPI/logs/
+01-RestfulAPI/dist/
+01-RestfulAPI/.env.*.local
+
+# --- Android app (MemeStreamApp) ---
+MemeStreamApp/.gradle/
+MemeStreamApp/.idea/
+MemeStreamApp/local.properties
+MemeStreamApp/*.iml
+MemeStreamApp/captures/
+MemeStreamApp/.cxx/
+MemeStreamApp/build/
+MemeStreamApp/app/build/
+MemeStreamApp/app/release/
+MemeStreamApp/app/debug/
+MemeStreamApp/**/*.apk
+MemeStreamApp/**/*.aab
+
+# --- OS/Editor junk ---
+*.swp
+*.tmp
