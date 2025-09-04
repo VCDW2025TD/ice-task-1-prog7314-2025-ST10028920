@@ -1,4 +1,4 @@
-# MemeStreamApp (PROG7314 ICE Task)
+# MemeStreamApp (PROG7314 ICE Task one )
 
 Android app (Kotlin, min SDK 24) scaffolded for MemeStream.
 
